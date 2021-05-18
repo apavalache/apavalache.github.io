@@ -1,4 +1,9 @@
+@font-face {
+  font-family: Firacode;
+  src: url(FiraCode-Light.ttf) format('truetype') ;
+}
+
 p {
-  font-family: Arial, Helvetica;
+  font-family: Firacode-Light, Arial, Helvetica;
   font-size: 40px;
 }
