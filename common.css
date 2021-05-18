@@ -1,0 +1,13 @@
+:root {
+  font-size: 40px;
+}
+
+a {
+  color: purple;
+  font-weight: bold;
+}
+
+a:hover {
+  color: orange;
+  border: 1px solid orange;
+}
